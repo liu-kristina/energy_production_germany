@@ -1,10 +1,9 @@
-# Investigation of German renewable energy production, spot market prices, and data center energy consumption
-
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+Investigation of German renewable energy production, spot market prices, and data center energy consumption
+
 
 ### Partner
 * Constructor Academy
