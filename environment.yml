@@ -1,0 +1,24 @@
+name: energy_invest
+channels:
+  - conda-forge
+dependencies:
+
+  - jupyterlab=4.3.4
+  - matplotlib=3.10.0
+  - numpy=2.2.2
+  - openpyxl=3.1.5
+  - pandas=2.2.3
+  - patsy=1.0.1
+  - pip=25.0
+  - plotly=5.24.1
+  - pyarrow=19.0.0 
+  - pyside6=6.8.1
+  - python=3.13.1
+  - python-dotenv=1.0.1
+  - scikit-learn=1.6.1
+  - scipy=1.15.1
+  - seaborn=0.13.2
+  - seaborn-base=0.13.2
+  - statsmodels=0.14.4
+  
+prefix: "/home/janp/miniforge3/envs/energy_invest"

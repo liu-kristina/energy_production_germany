@@ -1,72 +1,28 @@
-# Project Name
-
-example image:
+# Investigation of German renewable energy production, spot market prices, and data center energy consumption
 
 
-![alternative text](reports/img/pic01.jpg)
-
-
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+* Constructor Academy
+* https://academy.constructor.org/
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Data retrieval from API
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Statistical Analysis
 
 ### Technologies
-* R
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Pandas
+* Plotly
+* Linear Regression 
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+Evaluate energy prices (& reliability) in Germany compared to other countries in the EU. Linear regression of energy consumption of data centers projected to 2030.
 
 
-## Contributing Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
 
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
