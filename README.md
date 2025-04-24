@@ -20,8 +20,6 @@ Investigation of German renewable energy production, spot market prices, and dat
 * Linear Regression 
 
 ## Project Description
-Evaluate energy prices (& reliability) in Germany compared to other countries in the EU. Linear regression of energy consumption of data centers projected to 2030.
-
-
+Evaluate energy prices (& reliability) in Germany compared to other countries in the EU. Linear regression of energy consumption of data centers projected to 2030. ARIMA forecasting of energy demand for Germany with a week of data for the following week.
 
 
