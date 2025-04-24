@@ -13,6 +13,7 @@ Investigation of German renewable energy production, spot market prices, and dat
 * Data retrieval from API
 * Data Visualization
 * Statistical Analysis
+* ARIMA
 
 ### Technologies
 * Pandas
