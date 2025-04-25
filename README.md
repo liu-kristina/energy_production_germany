@@ -1,4 +1,4 @@
-# German Energy Producton
+# German Energy Infrastructure
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
